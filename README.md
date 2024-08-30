@@ -1,20 +1,5 @@
 
-<h1 style="
-  color: #39FF14; 
-  text-shadow: 
-    1px 1px 0 #000, 
-    -1px -1px 0 #000, 
-    1px -1px 0 #000, 
-    -1px 1px 0 #000,
-    0 0 3px #39FF14, 
-    0 0 6px #39FF14, 
-    0 0 9px #39FF14, 
-    0 0 12px #39FF14, 
-    0 0 15px #39FF14;
-  font-family: 'Courier New', Courier, monospace;
-">
-   N3XaMooN v4.1 
-</h1>
+![N3XaMooN v4.1](N3XaMooN.SVG)
 
 
 ### _by [whit3moonlight](https://github.com/whit3moonlight)_
@@ -71,7 +56,7 @@
 
 <div align="center">
   <video width="50%" controls>
-    <source src="media/dems.mp4" type="video/mp4">
+    <source src="media/demostration.mp4" type="video/mp4">
     Tu navegador no soporta la reproducción de videos.
   </video>
 </div>
