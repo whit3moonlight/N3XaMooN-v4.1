@@ -1,0 +1,18 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Filtro para efecto de neón -->
+    <filter id="neon">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#39FF14"/>
+      <feComposite in2="blur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <!-- Texto con efecto neón -->
+  <text x="50%" y="50%" font-family="Courier New, Courier, monospace" font-size="48" fill="#39FF14" text-anchor="middle" dominant-baseline="middle" filter="url(#neon)">
+    N3XaMooN v4.1
+  </text>
+</svg>
