@@ -10,6 +10,7 @@
 <div align="center">
   <img src="media/img.png" alt="Descripción de la imagen" width="100%">
 </div>
+
 ## 🚀 Características Principales
 
 ### 🛠️ **Control y Manipulación Total del Dispositivo**
