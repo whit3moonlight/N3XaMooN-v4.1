@@ -54,12 +54,9 @@
 
 ## 🎬 Demo
 
-<div align="center">
-  <video width="50%" controls>
-    <source src="media/demostration.mp4" type="video/mp4">
-    Tu navegador no soporta la reproducción de videos.
-  </video>
-</div>
+
+  https://github.com/user-attachments/assets/1a1bfeef-87ab-4ba4-932b-d5d5d3cd6ba9
+
 
 ---
 
